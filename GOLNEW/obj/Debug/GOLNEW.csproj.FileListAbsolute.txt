@@ -1,0 +1,15 @@
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\bin\Debug\GOLNEW.exe.config
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\bin\Debug\GOLNEW.exe
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\bin\Debug\GOLNEW.pdb
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.csproj.AssemblyReference.cache
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.Form1.resources
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.Properties.Resources.resources
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.csproj.GenerateResource.cache
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.csproj.CoreCompileInputs.cache
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.exe
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.pdb
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.ModalDialog.resources
+C:\Users\Temitayo\source\repos\GOLNEW\GOLNEW\obj\Debug\GOLNEW.RandomDialog.resources
+C:\Users\Temitayo\Downloads\GOLNEW\GOLNEW\GOLNEW\obj\Debug\GOLNEW.csproj.AssemblyReference.cache
+C:\Users\Temitayo\Downloads\GOLNEW\GOLNEW\GOLNEW\obj\Debug\GOLNEW.exe
+C:\Users\Temitayo\Downloads\GOLNEW\GOLNEW\GOLNEW\obj\Debug\GOLNEW.pdb
